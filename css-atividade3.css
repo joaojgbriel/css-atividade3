@@ -1,0 +1,42 @@
+body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    width: 940px;
+    margin: 0 auto;
+}
+
+p {
+    margin: 10px 0;
+}
+
+.logo {
+    display: block;
+    margin: 0 0 20px 0;
+}
+
+h1 {
+    color: #3D3D3D;
+    background-color: #E1EDF2;
+    padding: 10px;
+}
+
+h2 {
+    border-bottom: 1px solid #3D3D3D;
+    padding-bottom: 5px;
+}
+
+figure {
+    background-color: whitesmoke;
+    padding: 15px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+figure img {
+    display: block;
+    margin: 0 auto;
+}
+
+figcaption {
+    color: lightgrey;
+    margin-top: 10px;
+}
